@@ -1,0 +1,6 @@
+framework module SHBFunction {
+  umbrella header "SHBFunction.h"
+
+  export *
+  module * { export * }
+}
